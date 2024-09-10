@@ -1,0 +1,11 @@
+text,label,category,date,source
+"I love this product! It's fantastic!",positive,product,2024-09-01,review
+"The quality is terrible. I want a refund.",negative,product,2024-09-02,review
+"Customer service was very helpful and polite.",positive,service,2024-09-03,review
+"I had a bad experience with the delivery.",negative,service,2024-09-04,survey
+"The food was delicious, and I enjoyed it very much.",positive,experience,2024-09-05,review
+"The app keeps crashing, it's really frustrating.",negative,product,2024-09-06,review
+"This is the best movie I've seen this year!",positive,experience,2024-09-07,review
+"I hate the new update. It made everything worse.",negative,product,2024-09-08,survey
+"The weather was beautiful during our vacation.",positive,experience,2024-09-09,review
+"The staff was rude and unprofessional.",negative,service,2024-09-10,survey
